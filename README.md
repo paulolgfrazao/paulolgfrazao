@@ -1,37 +1,19 @@
-## Hi there 👋
+## Bem-vindo ao meu espaço 👋
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
 
-*italico* ou _italico_
-**Negrito** ou __negrito__
-___negrito e italico____
+![TI](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9sMTNncW51bXAxeHc3ZGdnejQ5MWEyYm5nYTQ1bzR6OXAxZHFwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp)
 
-- Lista 1
-- Lista 2
-  - Sublista
-  
-1. Lista 1 
-2. Lista 2
-   1. Sublista
+-----------------
 
-[Texto da imagem](https://img.freepik.com/vetores-gratis/icone-de-dispositivo-de-laptop-de-tela-em-branco-sobre-fundo-branco_1308-45999.jpg?t=st=1732479577~exp=1732483177~hmac=6ec9f66ce4b2df52b9efb7ef79f1a0b2294733315796aa1b57a742b3084464f6&w=900)
+👩‍💻 Olá, me chamo Paulo Frazão! <br>
+💻 Sou tecnologo em análise e desenvolvimento de sistemas e Analista de TI <br>
+📫 ![Acesse meu LinkedIn](https://www.linkedin.com/in/paulofraz%C3%A3o1999/) <br>
 
-![Texto da imagem](https://img.freepik.com/vetores-gratis/icone-de-dispositivo-de-laptop-de-tela-em-branco-sobre-fundo-branco_1308-45999.jpg?t=st=1732479577~exp=1732483177~hmac=6ec9f66ce4b2df52b9efb7ef79f1a0b2294733315796aa1b57a742b3084464f6&w=900)
+---------
 
-> Texto da citação
+### Minhas Tecnologias
 
-| Cabeçalho 1 | Cabeçalho 2 |
-|-------------|-------------|
-| Texto 1     | Texto 2     |
-|-------------|-------------|
-
-- [X] Tarefa 1 <br> (QUEBRA LINHA)
-- [ ] Tarefa 2
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="70px">
 
 
 <!--
