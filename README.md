@@ -28,7 +28,7 @@
 
 ----------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulolgfrazao=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulolgfrazao_icons=true&theme=radical)
 
 
 <!--
