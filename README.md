@@ -21,6 +21,8 @@ ___negrito e italico____
 
 [Texto da imagem](https://img.freepik.com/vetores-gratis/icone-de-dispositivo-de-laptop-de-tela-em-branco-sobre-fundo-branco_1308-45999.jpg?t=st=1732479577~exp=1732483177~hmac=6ec9f66ce4b2df52b9efb7ef79f1a0b2294733315796aa1b57a742b3084464f6&w=900)
 
+![Texto da imagem](https://img.freepik.com/vetores-gratis/icone-de-dispositivo-de-laptop-de-tela-em-branco-sobre-fundo-branco_1308-45999.jpg?t=st=1732479577~exp=1732483177~hmac=6ec9f66ce4b2df52b9efb7ef79f1a0b2294733315796aa1b57a742b3084464f6&w=900)
+
 <!--
 **paulolgfrazao/paulolgfrazao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
