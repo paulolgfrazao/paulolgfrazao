@@ -33,7 +33,7 @@
 
 ----------
 
-![Paulo Frazão GitHub stats](https://github-readme-stats.vercel.app/api?username=paulolgfrazao&show_icons=true&theme=radical)
+![Paulo Frazão GitHub stats](https://github-readme-stats.vercel.app/api?username=paulolgfrazao&show_icons=true&theme=dracula)
 
 
 <img loading="lazy" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulolgfrazao&layout=compact&langs_count=7&theme=dracula"/>
