@@ -24,7 +24,7 @@
 
 --------------
 
-<center>
+<p align="center">
 
 ### Formações
 
@@ -33,7 +33,7 @@
 |Colaboração no Github | [Certificado](https://www.dio.me/certificate/8MG65YJG/share)
 |Colaboração no Github | [Certificado](https://www.dio.me/certificate/8MG65YJG/share)
 
-</center>
+<p align="center">
 
 ----------
 
