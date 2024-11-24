@@ -24,12 +24,16 @@
 
 --------------
 
+<center>
+
 ### Formações
 
 | Cursos | Certificados |
 |-------- | ------------ |
 |Colaboração no Github | [Certificado](https://www.dio.me/certificate/8MG65YJG/share)
 |Colaboração no Github | [Certificado](https://www.dio.me/certificate/8MG65YJG/share)
+
+</center>
 
 ----------
 
