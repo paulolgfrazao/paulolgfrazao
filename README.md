@@ -7,7 +7,7 @@
 
 👩‍💻 Olá, me chamo Paulo Frazão! <br>
 💻 Tecnologo em análise e desenvolvimento de sistemas e Analista de TI <br>
-📫 ![Acesse meu LinkedIn](https://www.linkedin.com/in/paulofraz%C3%A3o1999/) <br>
+<a href="https://www.linkedin.com/in/paulofraz%C3%A3o1999/"><img src="img/linkedin.png" alt="" width="30px"></a>
 
 
 <p align="center">
