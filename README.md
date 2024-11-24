@@ -9,11 +9,30 @@
 💻 Sou tecnologo em análise e desenvolvimento de sistemas e Analista de TI <br>
 📫 ![Acesse meu LinkedIn](https://www.linkedin.com/in/paulofraz%C3%A3o1999/) <br>
 
----------
 
-### Minhas Tecnologias
+<center>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width= "70px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width= "40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px">
+</center>
+
+--------------
+
+### Formações
+
+| Cursos | Certificados |
+|-------- | ------------ |
+|Colaboração no Github | [Certificado](https://www.dio.me/certificate/8MG65YJG/share)
+|Colaboração no Github | [Certificado](https://www.dio.me/certificate/8MG65YJG/share)
+
+----------
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <!--
