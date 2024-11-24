@@ -13,7 +13,7 @@
 
 ### Minhas Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="70px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width= "70px">
 
 
 <!--
