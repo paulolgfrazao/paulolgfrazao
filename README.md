@@ -36,6 +36,9 @@
 ![Paulo Frazão GitHub stats](https://github-readme-stats.vercel.app/api?username=paulolgfrazao&show_icons=true&theme=radical)
 
 
+<img loading="lazy" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulolgfrazao&layout=compact&langs_count=7&theme=dracula"/>
+
+
 <!--
 **paulolgfrazao/paulolgfrazao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
