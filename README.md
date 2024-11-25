@@ -8,9 +8,8 @@
 👩‍💻 Olá, me chamo Paulo Frazão! <br>
 💻 Tecnologo em análise e desenvolvimento de sistemas e Analista de TI <br> 
 
-<a href="https://www.linkedin.com/in/paulofrazão1999/" target="_blank"> <img src="linkedin.png" alt="linkedin" width="30px"> 
+<a href="https://www.linkedin.com/in/paulofrazão1999/" target="_blank"> <img src="linkedin.png" alt="linkedin" width="20px"> 
 </a> 
-Clique para visitar meu LinkedIn
 
 <p align="center">
 
