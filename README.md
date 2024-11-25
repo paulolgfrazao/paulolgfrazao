@@ -5,7 +5,8 @@
 
 <p align="center">
 
-![ ](https://readme-typing-svg.demolab.com/?Bem-vindo+ao+meu+GitHub!;Me+chamo+Paulo+Frazão!;Sou+analista+de+infraestrutura+de+TI!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
+[![Typing](https://readme-typing-svg.demolab.com/?Bem-vindo+ao+meu+GitHub!;Me+chamo+Paulo+Frazão!;Sou+analista+de+infraestrutura+de+TI!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)](https://git.io/typing-svg)
+
 
 </p>
 
