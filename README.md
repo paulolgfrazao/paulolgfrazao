@@ -1,8 +1,7 @@
 ## Bem-vindo ao meu GitHub👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=020507&background=075BFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Bem+vindo+ao+meu+GitHub!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=020507&background=075BFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Bem+vindo+ao+meu+GitHub!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Paulo+Fraz%C3%A3o" alt="Typing SVG" /></a>
 
 ![TI](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9sMTNncW51bXAxeHc3ZGdnejQ5MWEyYm5nYTQ1bzR6OXAxZHFwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp)
 
