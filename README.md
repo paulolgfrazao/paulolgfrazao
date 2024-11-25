@@ -1,5 +1,14 @@
+<p align ="center">
+
+![](https://camo.githubusercontent.com/d6c684e272dfca89e599b25fdee03d847881c72f52af372ef6d577a958a8814e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572)
+
+</p>
+
+<p align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=020507&background=075BFF00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Bem+vindo+ao+meu+GitHub!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Meu+nome+é+Paulo+Frazão;Sou+desenvolvedor+de+sistemas)](https://git.io/typing-svg)
 
+</p>
 
 ![TI](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9sMTNncW51bXAxeHc3ZGdnejQ5MWEyYm5nYTQ1bzR6OXAxZHFwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp)
 
