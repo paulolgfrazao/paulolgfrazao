@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?Bem-vindo+ao+meu+GitHub!;Me+chamo+Paulo+Frazão!;Sou+analista+de+infraestrutura+de+TI!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?Bem-vindo+ao+meu+GitHub!;Me+chamo+Paulo+Frazão!;Sou+analista+de+infraestrutura+de+TI!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)
+
 </p>
 
 ![TI](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9sMTNncW51bXAxeHc3ZGdnejQ5MWEyYm5nYTQ1bzR6OXAxZHFwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp)
