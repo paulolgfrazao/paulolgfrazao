@@ -1,9 +1,9 @@
 <p align="center">
-
 ![line](https://camo.githubusercontent.com/d6c684e272dfca89e599b25fdee03d847881c72f52af372ef6d577a958a8814e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572)
+</p>
 
-  <img src="https://readme-typing-svg.demolab.com/?Bem-vindo+ao+meu+GitHub!;Me+chamo+Paulo+Frazão!;Sou+analista+de+infraestrutura+de+TI!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?Bem-vindo+ao+meu+GitHub!;Me+chamo+Paulo+Frazão!;Sou+analista+de+infraestrutura+de+TI!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 ![TI](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9sMTNncW51bXAxeHc3ZGdnejQ5MWEyYm5nYTQ1bzR6OXAxZHFwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp)
