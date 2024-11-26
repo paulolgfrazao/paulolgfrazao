@@ -24,11 +24,10 @@
   <a href="https://www.linkedin.com/in/paulofrazão1999/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
 </div>
 
-<p align="center">
-<p><strong>Tecnologias</strong></p>
-</p>
 
-<p align="center">
+<p><strong>Tecnologias</strong></p>
+
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width= "40px"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40px"> 
@@ -37,7 +36,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40px"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px">
 
-</p>
 
 --------------
 
